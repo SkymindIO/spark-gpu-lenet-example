@@ -170,6 +170,6 @@
             <artifactId>deeplearning4j-cuda-7.5</artifactId>
             <version>${dl4j.version}</version>
         </dependency>
-     
+
     </dependencies>
 </project>
